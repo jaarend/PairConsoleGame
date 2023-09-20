@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Repository\bin\Debug\net7.0\CaveTreasureHunt.Repository.deps.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Repository\bin\Debug\net7.0\CaveTreasureHunt.Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Repository\bin\Debug\net7.0\CaveTreasureHunt.Repository.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Repository\bin\Debug\net7.0\CaveTreasureHunt.Data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Repository\bin\Debug\net7.0\CaveTreasureHunt.Data.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Repository\obj\Debug\net7.0\CaveTreasureHunt.Repository.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Repository\obj\Debug\net7.0\CaveTreasureHunt.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Repository\obj\Debug\net7.0\CaveTreasureHunt.Repository.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Repository\obj\Debug\net7.0\CaveTreasureHunt.Repository.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Repository\obj\Debug\net7.0\CaveTreasureHunt.Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Repository\obj\Debug\net7.0\CaveTreasureHunt.Repository.csproj.CopyComplete
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Repository\obj\Debug\net7.0\CaveTreasureHunt.Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Repository\obj\Debug\net7.0\refint\CaveTreasureHunt.Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Repository\obj\Debug\net7.0\CaveTreasureHunt.Repository.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Repository\obj\Debug\net7.0\ref\CaveTreasureHunt.Repository.dll

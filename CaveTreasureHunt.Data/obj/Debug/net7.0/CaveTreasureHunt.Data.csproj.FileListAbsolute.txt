@@ -1,0 +1,11 @@
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Data\bin\Debug\net7.0\CaveTreasureHunt.Data.deps.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Data\bin\Debug\net7.0\CaveTreasureHunt.Data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Data\bin\Debug\net7.0\CaveTreasureHunt.Data.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Data\obj\Debug\net7.0\CaveTreasureHunt.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Data\obj\Debug\net7.0\CaveTreasureHunt.Data.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Data\obj\Debug\net7.0\CaveTreasureHunt.Data.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Data\obj\Debug\net7.0\CaveTreasureHunt.Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Data\obj\Debug\net7.0\CaveTreasureHunt.Data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Data\obj\Debug\net7.0\refint\CaveTreasureHunt.Data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Data\obj\Debug\net7.0\CaveTreasureHunt.Data.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\CaveTreasureHunt\CaveTreasureHunt.Data\obj\Debug\net7.0\ref\CaveTreasureHunt.Data.dll

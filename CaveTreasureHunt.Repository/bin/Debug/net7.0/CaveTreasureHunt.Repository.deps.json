@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CaveTreasureHunt.Repository/1.0.0": {
+        "dependencies": {
+          "CaveTreasureHunt.Data": "1.0.0"
+        },
+        "runtime": {
+          "CaveTreasureHunt.Repository.dll": {}
+        }
+      },
+      "CaveTreasureHunt.Data/1.0.0": {
+        "runtime": {
+          "CaveTreasureHunt.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CaveTreasureHunt.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CaveTreasureHunt.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
